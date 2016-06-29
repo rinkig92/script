@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 class Student(object):
 
     total_marks = 500
